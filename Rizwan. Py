@@ -1,0 +1,2 @@
+message="Rizwanali"
+print(message) 
